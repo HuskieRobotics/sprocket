@@ -3,7 +3,7 @@ Sprocket
 A queue-based library for FRC robots, coded in LabVIEW 2015.
 
 Part boilerplate, part library, **Sprocket** is intended to handle features
-such as autonomous sequencing, manual / semi-auto controls and
+such as autonomous sequencing, manual / semi-auto controls and ... TODO.
 
 Zero dependencies, but designed for interoperability with the LabVIEW WPI Robotics Library.
 
@@ -40,8 +40,6 @@ Our library is organized into four main sections:
 - Sensor - gather sensor input
 - Delegate - directing actions to separate subsystems
 - Subsystem - calculate and perform subsystem actions
-
-Data flows from
 
 These three sections are organized into four VIs derived from the
 auto-generated FRC robot project:
