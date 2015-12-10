@@ -1,13 +1,20 @@
-The Packet
+# Data Structures
+
+## The Packet
 ----------
 - Name
 - Priority
 - Data
 
-The Action Queue
-----------------
+## Action Queue
 - Joystick Inputs
 
-The Subsystem Queue
--------------------
+## Subsystem Queue
 - Immediately relevant actions
+
+# Major VIs
+Enqueue
+
+Dequeue
+
+Delegate
