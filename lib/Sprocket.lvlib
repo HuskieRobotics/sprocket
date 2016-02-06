@@ -17,17 +17,14 @@
 	</Item>
 	<Item Name="Stream" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Delegate.vi" Type="VI" URL="../../src/Stream/Delegate.vi"/>
 		<Item Name="Obtain Stream.vi" Type="VI" URL="../../src/Stream/Obtain Stream.vi"/>
-		<Item Name="Release Stream.vi" Type="VI" URL="../../src/Stream/Release Stream.vi"/>
+		<Item Name="Parse Subsystem Name.vi" Type="VI" URL="../../src/Stream/Parse Subsystem Name.vi"/>
 		<Item Name="Peek Stream.vi" Type="VI" URL="../../src/Stream/Peek Stream.vi"/>
+		<Item Name="Priority Push Stream.vi" Type="VI" URL="../../src/Stream/Priority Push Stream.vi"/>
 		<Item Name="Pull Stream.vi" Type="VI" URL="../../src/Stream/Pull Stream.vi"/>
 		<Item Name="Push Stream.vi" Type="VI" URL="../../src/Stream/Push Stream.vi"/>
-		<Item Name="Priority Push Stream.vi" Type="VI" URL="../../src/Stream/Priority Push Stream.vi"/>
-		<Item Name="Delegate.vi" Type="VI" URL="../../src/Stream/Delegate.vi"/>
-		<Item Name="Parse Subsystem Name.vi" Type="VI" URL="../../src/Stream/Parse Subsystem Name.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
-		<Item Name="Obtain Action Notifier.vi" Type="VI" URL="../Obtain Action Notifier.vi"/>
+		<Item Name="Release Stream.vi" Type="VI" URL="../../src/Stream/Release Stream.vi"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>

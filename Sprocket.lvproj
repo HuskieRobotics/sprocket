@@ -595,7 +595,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[1].itemID" Type="Ref">/Target/src</Property>
 				<Property Name="Source[1].type" Type="Str">Container</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Target/Sprocket.lvlib</Property>
+				<Property Name="Source[2].itemID" Type="Ref"></Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[2].Library.atomicCopy" Type="Bool">true</Property>
 				<Property Name="Source[2].Library.LVLIBPtopLevel" Type="Bool">true</Property>
