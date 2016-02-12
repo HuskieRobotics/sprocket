@@ -19,6 +19,7 @@ There are two main stream categories:
 ## Functions
 
 The functions operating on the streams are as follows:
+
 1. Write - pipe actions into **Input** stream
 2. Delegate - separate **Input** stream by subsystem
 3. Prioritize - reject actions with lower priority, rush actions with higher priority, pipe into **Subsystems**
