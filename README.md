@@ -82,7 +82,7 @@ Designed and built during the fall of 2015 by these people:
 
 **FRC Team 3061 - Huskie Robotics**
 - James Zhu (james.zhu.engineer@gmail.com)
-- Dillon Hammond (dchammond@gmail.com)
+- Dillon Hammond (dillonhammond@gmail.com)
 - Ian Ren (Ian.Ren@navistar.com)
 - Geoff Schmit (gcschmit@naperville203.org)
 
